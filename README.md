@@ -8,7 +8,7 @@ Copies of these notebooks are posted to the Microsoft Azure cloud service:
 
 https://notebooks.azure.com/grahampullan/libraries/CUED-IB-Maths-VectorCalculus
 
-It is recommended that you use these notebooks via the above link.
+It is recommended that you use these notebooks via the above link. You first sign in to Azure, and then clone your own copy of the notebook.
 
 ## Feedback and corrections
 
